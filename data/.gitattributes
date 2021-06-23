@@ -3,3 +3,4 @@ train.json filter=lfs diff=lfs merge=lfs -text
 dev.pkl filter=lfs diff=lfs merge=lfs -text
 dev.json filter=lfs diff=lfs merge=lfs -text
 test.pkl filter=lfs diff=lfs merge=lfs -text
+test.json filter=lfs diff=lfs merge=lfs -text
