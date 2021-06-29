@@ -14,6 +14,11 @@ nltk, numpy, tqdm, matplotlib, idna, tushare, sqlalchemy, pandas,
 boto3, requests, regex, more_itertools, interval, translate, num2words
 ```
 
+## Data preparation
+We provide the processed dataset in ./data, including train, validation and test sets.
+
+The original dataset can be found from [TREQS](https://github.com/wangpinggl/TREQS).
+
 ## Training
 * run ./train.sh to train the model.
 
