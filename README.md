@@ -46,3 +46,6 @@ python -u ./src/predict.py \
   --cuda \
   --cuda_device_num $DEVICE_NUM \
 ```
+
+## Evaluation
+The details of evaluation can be found in [TREQS_evaluation](https://github.com/wangpinggl/TREQS), which is based on the publicly available real-world de-identified [Medical Information Mart for Intensive Care III (MIMIC III)](https://mimic.mit.edu/gettingstarted/access/) dataset.
