@@ -1,5 +1,6 @@
 # MedTS
-This repository contains codes and models for the paper: MedTS: a BERT-based Medical Text-to-SQL Generation Method with Incorporating Tree-structured Intermediate Representation
+This repository contains codes and models for the paper: 
+MedTS: a BERT-based Medical Text-to-SQL Generation Method with Incorporating Tree-structured Intermediate Representation
 
 ## Requirements
 
